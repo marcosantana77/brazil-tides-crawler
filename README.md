@@ -1,2 +1,2 @@
 # brazil-tides-crawler
-Craws the tides data from the Brazilian Marine WebSite 
+Crawls the tides data from the Brazilian Marine WebSite 

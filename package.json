@@ -1,0 +1,17 @@
+{
+  "name": "metereologie.tides.ImbitubaDocks.crawler",
+  "description": "Brazilian Imbituba Docks Tides Info Crawler",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "bson": "*",
+    "cloneextend": "*",
+    "mongodb": "*",
+    "cheerio": "*",
+    "request": "*",
+    "async": "*"
+  }
+}
